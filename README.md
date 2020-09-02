@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on data-driven approach development in earthquake engineering.
 - 🌱 I’m currently learning machine learning techniques as well as computer programing.
-- 💬 Feel free to contact me if you are looking for collarboration of AI in civil engineering.
+- 💬 Feel free to contact me if you are looking for collarboration for applying AI in civil engineering.
 - 📫 How to reach me: guanxingquan@ucla.edu
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I completely advocate the computer language of C++, but I myself developed a computational platform using Python.
