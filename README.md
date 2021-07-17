@@ -4,7 +4,6 @@
 - 💬 Feel free to contact me if you are looking for collarboration for applying AI in civil engineering.
 - 📫 How to reach me: guanxingquan@ucla.edu
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I completely advocate the computer language of C++, but I myself developed a computational platform using Python.
 <!--
 **GUAN-XINGQUAN/GUAN-XINGQUAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
